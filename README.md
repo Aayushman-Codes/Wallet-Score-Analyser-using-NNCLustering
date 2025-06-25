@@ -77,7 +77,7 @@ Contamination set to 10% based on protocol history
 Anomaly score reduces final credit score by 30%
 Scoring Algorithm
 
-Base Score Components:
+**Base Score Components:**
 
 Score = 0.4*(volume_norm) + 0.3*(stability) + 0.2*(diversity) + 0.1*(1-risk)
 
