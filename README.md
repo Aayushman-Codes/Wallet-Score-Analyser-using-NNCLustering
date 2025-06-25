@@ -78,8 +78,11 @@ Score = 0.4*(volume_norm) + 0.3*(stability) + 0.2*(diversity) + 0.1*(1-risk)
 Where:
 
 volume_norm = log10(total_volume) / max(log_volume)
+
 stability = 1/(1 + amount_std)
+
 diversity = action_type_entropy
+
 risk = 0.4*liquidation_ratio + 0.3*volatility + 0.2*large_tx_ratio + 0.1*autocorrelation
 
 
