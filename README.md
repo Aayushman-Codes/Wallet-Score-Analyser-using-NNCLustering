@@ -1,4 +1,4 @@
-# ZERU-Wallet-Score-Analyser-using-NNCLustering
+# ZERU-Wallet-Score-Analyser-using-NNClustering
 
 Kaggle Notebook Link: https://www.kaggle.com/code/aayushmancodez/zeru-eth-simple-version
 
