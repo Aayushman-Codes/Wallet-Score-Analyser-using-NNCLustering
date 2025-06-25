@@ -3,7 +3,7 @@
 Kaggle Notebook Link: https://www.kaggle.com/code/aayushmancodez/zeru-eth-simple-version
 
 **Process Summary:**
-This model Utilises Neural Networks CLustering and further analysis of data based on given metrics defined below respectively.
+This model utilises Neural Networks Clustering and further analysis of data based on given metrics defined below respectively to assign credit scores and analyse data.
 
 _Proces:_
 
