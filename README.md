@@ -3,6 +3,10 @@
 Kaggle Notebook Link: https://www.kaggle.com/code/aayushmancodez/zeru-eth-simple-version
 
 **Process Summary:**
+This model Utilises Neural Networks CLustering and further analysis of data based on given metrics defined below respectively.
+
+_Proces:_
+
 In the Data Ingestion process the system scans the provided directory to identify the 3 largest JSON files containing Compound V2 transaction data (typically >100MB each) and then it implements error handling for corrupted files or invalid JSON structures. For tiimestamps,  code converts UNIX timestamps (e.g., "1726203335") to pandas DateTime objects using pd.to_datetime(unit='s'). The Feature Engineering part creates comprehensive wallet-level features (temporal patterns, financial metrics, risk indicators). The code makes use of Neural Network which uses an autoencoder for dimensionality reduction before clustering using K-Means Clustering to produce cluster output.
 
 This credit scoring system analyzes wallet activity across several key factors to assign scores from 0 to 100. Higher scores go to wallets that show:
