@@ -51,9 +51,13 @@ Risk Indicators: Liquidation ratio (# liquidations/total txs), Large transaction
 **Neural Network Preprocessing:**
 
 def create_autoencoder(input_dim=31, encoding_dim=32):
+
     input_layer = Input(shape=(input_dim,))
+    
     encoder = Dense(encoding_dim, activation='relu')(input_layer) 
+    
     decoder = Dense(input_dim, activation='linear')(encoder)
+    
     return Model(inputs=input_layer, outputs=decoder)
     
 - Trained for 100 epochs with Adam optimizer (lr=0.001)
