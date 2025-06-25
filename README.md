@@ -1,5 +1,11 @@
 # ZERU-Wallet-Score-Analyser-using-NNClustering
 
+Important links:
+Output Csv
+
+1) Google Sheet: https://docs.google.com/spreadsheets/d/10ZEB6OuFd2dg6tJNI1xBHjHwisuW8SZaQ-5ztKZmDEo/edit?usp=sharing
+2) .csv extension file: https://drive.google.com/file/d/1Ylp_sEm8p3-0TkDmYQru32Z97wDbKci-/view?usp=sharing
+
 Kaggle Notebook Link: https://www.kaggle.com/code/aayushmancodez/zeru-eth-simple-version
 
 **Process Summary:**
