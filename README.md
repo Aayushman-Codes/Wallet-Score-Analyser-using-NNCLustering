@@ -1,4 +1,4 @@
-# ZERU-Wallet-Score-Analyser-using-NNClustering
+# Wallet-Score-Analyser-using-NNClustering
 
 Important links:
 Output Csv
