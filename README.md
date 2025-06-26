@@ -1,4 +1,4 @@
-# Wallet-Score-Analyser-using-NNClustering
+# Credit-Score-and-Wallet-Analyser-using-NNClustering
 
 Important links:
 Output Csv
